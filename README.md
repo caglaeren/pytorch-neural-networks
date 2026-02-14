@@ -15,10 +15,10 @@ architectures.
   - MNIST digit classification
   - Folder: `ann/`
 
-- **RNN (Recurrent Neural Network)**
-  - Designed for sequential and temporal data
-  - Suitable for text and time-series tasks
-  - Folder: `rnn/`
+- **CNN (Convolutional Neural Network)**
+  - Designed for image and spatial data processing
+  - Uses convolutional layers for feature extraction
+  - Folder: `cnn/`
 
 
 > Additional neural network models will be added over time.
