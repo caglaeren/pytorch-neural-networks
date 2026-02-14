@@ -31,10 +31,10 @@ pytorch-neural-network/
 ├── ann/
 │   ├── ann.py
 │   └── README.md
-├── rnn/
-│   ├── rnn.py
+├── cnn/
+│   ├── cnn.py
 │   └── README.md
-├── cnn/              # (planned)
+├── rnn/              # (planned)
 ├── lstm/             # (planned)
 ├── gru/              # (planned)
 ├── transformer/      # (planned)
